@@ -16,8 +16,10 @@ OK
 ![Diagram](HK_4x27T.png)
 
 
+![Diagram](MD_HPG1i.png)
+![Diagram](MD_LenovoX1G13.png)
+![Diagram](Prem_LenovoL14G6.png)
 ![Diagram](LenovoL14G6.png)
-![Diagram](LondonDesk.jpg)
 
 ![Diagram](UK_2x34_2x32F.png)
 ![Diagram](UK_2x34_2x32S.png)
