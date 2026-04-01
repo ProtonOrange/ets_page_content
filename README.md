@@ -2,3 +2,5 @@
 
 
 OK
+
+![Diagram](LondonDesk.jpg)
