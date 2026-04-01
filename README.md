@@ -3,7 +3,6 @@
 
 OK
 
-![Diagram](LondonDesk.jpg)
 
 ![Diagram](HK_1x43_2x27F.png)
 ![Diagram](HK_1x43_2x27S.png)
@@ -16,10 +15,14 @@ OK
 ![Diagram](HK_4x27T.png)
 
 
+![Diagram](LenovoL14G6.png)
+![Diagram](LenovoL14G6HSBC.png)
+
+![Diagram](LondonDesk.jpg)
+
 ![Diagram](MD_HPG1i.png)
 ![Diagram](MD_LenovoX1G13.png)
 ![Diagram](Prem_LenovoL14G6.png)
-![Diagram](LenovoL14G6.png)
 
 ![Diagram](UK_2x34_2x32F.png)
 ![Diagram](UK_2x34_2x32S.png)
