@@ -17,7 +17,7 @@ OK
 
 
 ![Diagram](LenovoL14G6.png)
-![Diagram](LondonDesk.png)
+![Diagram](LondonDesk.jpg)
 
 ![Diagram](UK_2x34_2x32F.png)
 ![Diagram](UK_2x34_2x32S.png)
