@@ -16,16 +16,17 @@ OK
 ![Diagram](HK_4x27T.png)
 
 
-![Diagram](.png)
+![Diagram](LenovoL14G6.png)
+![Diagram](LondonDesk.png)
 
-![Diagram](HK_2x34_2x32F.png)
-![Diagram](HK_2x34_2x32S.png)
-![Diagram](HK_2x34_2x32T.png)
+![Diagram](UK_2x34_2x32F.png)
+![Diagram](UK_2x34_2x32S.png)
+![Diagram](UK_2x34_2x32T.png)
 
-![Diagram](HK_3x24T.png)
-![Diagram](HK_6x24F.png)
-![Diagram](HK_6x24S.png)
-![Diagram](HK_6x24T.png)
+![Diagram](UK_3x24F.png)
+![Diagram](UK_6x24F.png)
+![Diagram](UK_6x24S.png)
+![Diagram](UK_6x24T.png)
 
 
 ![Diagram](US_1x49F.png)
