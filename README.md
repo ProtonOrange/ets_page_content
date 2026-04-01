@@ -21,6 +21,7 @@ OK
 ![Diagram](LondonDesk.jpg)
 
 ![Diagram](MD_HPG1i.png)
+![Diagram](MD_LenovoThinkPadX12GetachableG2.png)
 ![Diagram](MD_LenovoX1G13.png)
 ![Diagram](Prem_LenovoL14G6.png)
 
